@@ -3,6 +3,9 @@
 Hi, welcome to the official Delta Gamez GitHub organization. 
 We're a small game creation and development group and create content for our community on Discord. 
 
+## Projects
+[Connect](https://github.com/Delta-Gamez/Connect)
+
 <!--
 
 **Here are some ideas to get you started:**
