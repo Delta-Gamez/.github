@@ -4,7 +4,7 @@ Hi, welcome to the official Delta Gamez GitHub organization.
 We're a small game creation and development group and create content for our community on Discord. 
 
 ## Projects
-[Connect](https://github.com/Delta-Gamez/Connect) is a Discord-based project, allowing users to advertise their Discord server on a webpage free of charge. The platform consists of three components, the Discord Interaction, an API handling requests and a static web-interface displaying Discord guilds. 
+[Connect](https://github.com/Delta-Gamez/Connect) is a Discord-based project, allowing users to advertise their Discord server on a webpage free of charge. The platform consists of three components, the Discord Interaction, an API handling requests and a web-interface displaying Discord guilds. 
 
 
 <!--
